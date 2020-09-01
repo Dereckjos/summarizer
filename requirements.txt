@@ -14,5 +14,6 @@ flasgger==0.9.4
 spacy==2.2
 gensim==3.8.3
 opencv-python==4.4.0.42
-
+pytesseract==0.3.5
+sumy==0.8.1
 streamlit
